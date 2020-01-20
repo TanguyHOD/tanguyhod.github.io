@@ -4,7 +4,7 @@ general_email: tanguy.hodonou@yahoo.com
 academic_email: tanguy.hodonou@etu.u-cergy.fr
 
 description: > # this means to ignore newlines until "baseurl:"
-  data scientist, machine learning
+  data scientist, machine learning, data visualization, Python, R, SQL
 
 baseurl: "/tanguyhod.github.io" # the subpath of your site, e.g. /blog/
 
