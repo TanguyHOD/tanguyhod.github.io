@@ -4,16 +4,16 @@ permalink: /projects/
 title: Projects
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
+Here is a non-exhaustive list of some of my projects.
 
 <ul>
 	<li>
-		<b>Project title #1</b>: Give a brief description of your first project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
+		<b>Credit Scoring with Python</b>: Here is a simple credit scoring performing.<br>
 		<a href=""><div class="color-button">paper</div></a><a href="Python_machine_learning.ipynb"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>Project title #2</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Web scrapping with Python and EDA</b>: In this project I did a web scrapping to collect data and process an EDA. <br>
+		<a href=""><div class="color-button">paper</div></a><a href="Tanguy_data_engineer_test.py"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
 	</li><br>
 
 </ul>
