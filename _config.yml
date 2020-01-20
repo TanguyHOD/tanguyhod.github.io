@@ -1,10 +1,10 @@
 # Site settings
 title: Tanguy HODONOU
 general_email: tanguy.hodonou@yahoo.com
-academic_email: your_academic_email@univ
+academic_email: tanguy.hodonou@etu.u-cergy.fr
 
 description: > # this means to ignore newlines until "baseurl:"
-  data scientist.
+  data scientist, machine learning
 
 baseurl: "/tanguyhod.github.io" # the subpath of your site, e.g. /blog/
 
