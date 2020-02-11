@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/Photo.jpg" width=300 align="right" %}
 
 I define myself as data scientist with a background in economics. I enjoy machine learning, web programming, and 
 all things data science and applying statistical learning to various topics. Today, I am nearing the end of my Economics Engineering and Data Analysis Master's at CY Cergy Paris University, France. I committed to learning everything I could about machine learning, data science, Business Intelligence and the tech industry.
