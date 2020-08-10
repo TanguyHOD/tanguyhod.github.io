@@ -10,5 +10,5 @@ You can have a look at my curriculum vitae below.
 </ul>
 
 <ul>
-	<li><a href="CV_Tanguy_HODONOU_fr.pdf">mon cv</a></li>
+	<li><a href="Tanguy_HODONOU_CV_fr.pdf">mon cv</a></li>
 </ul>
